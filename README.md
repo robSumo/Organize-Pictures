@@ -10,6 +10,7 @@ This is a small Python utility script that I have been using to organize my smar
 
 ##Configuration:
 Specify the following inside the config.properties file:
+
 1. The root directory of the origin folder. This is the folder where you have the pictures and/or videos in them. The script will recursively iterate all the way down all of the folders.
 2. The destination folder for the pictures.
 3. The destination folder for the videos.
